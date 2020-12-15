@@ -1,2 +1,3 @@
-# hello_c
-Hello World
+Hello Uzbekistan
+Hello World in c++
+Hello from Mkadir
